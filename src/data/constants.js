@@ -10,7 +10,7 @@ export const Bio = {
     "Guitarrista",
     "Powerlifter",
   ],
-  description: "Sou uma pessoa motivada e versátil, sempre disposta a enfrentar novos desafios. Com uma paixão por aprender, estou dedicada a entregar resultados de alta qualidade. Com uma atitude positiva e uma mentalidade de crescimento, estou pronta para fazer uma contribuição significativa e alcançar grandes conquistas.",
+  description: "Sou uma pessoa motivada e versátil, sempre disposta a enfrentar novos desafios. Com uma paixão por aprender, estou dedicado a entregar resultados de alta qualidade. Com uma atitude positiva e uma mentalidade de crescimento, estou pronto para fazer uma contribuição significativa e alcançar grandes conquistas.",
   github: "https://github.com/miguel-ozana",
   resume:
     "https://www.canva.com/design/DAGR6ejnfFQ/RQEVXFOfUONW1_apsIkysw/view?utm_content=DAGR6ejnfFQ&utm_campaign=designshare&utm_medium=link&utm_source=editor",
