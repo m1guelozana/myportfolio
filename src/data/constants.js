@@ -164,7 +164,7 @@ export const skills = [
     ],
   },
   {
-    title: "Others",
+    title: "DevOps e Outros",
     skills: [
       {
         name: "Git",
