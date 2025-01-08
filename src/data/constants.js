@@ -313,7 +313,7 @@ export const projects = [
       "CSS",
     ],
     github: "https://github.com/miguel-ozana/miguelito",
-    webapp: "https://miguelitto.netlify.app/",
+    webapp: "https://miguelito-eta.vercel.app/",
   },
   {
     id: 5,
