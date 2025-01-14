@@ -198,6 +198,36 @@ export const skills = [
       },
     ],
   },
+  {
+    title: "Dados e IA",
+    skills: [
+      {
+        name: "PyTorch",
+        image:
+          "https://static-00.iconduck.com/assets.00/pytorch-icon-423x512-6xpyyw7t.png",
+      },
+      {
+        name: "R",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png",
+      },
+      {
+        name: "Tensorflow",
+        image:
+          "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-tensorflow-icon.png",
+      },
+      {
+        name: "Apache Spark",
+        image:
+          "https://seekvectorlogo.com/wp-content/uploads/2018/12/apache-spark-vector-logo-small.png",
+      },
+      {
+        name: "Hugging Face",
+        image:
+          "https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg",
+      },
+    ],
+  },
 ];
 
 export const experiences = [
@@ -216,6 +246,19 @@ export const experiences = [
       "Bs4",
       "Scrapy",
       "Excel",
+    ],
+    doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
+  },
+  {
+    id: 1,
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEaTsI7GXTIpTU3zmqe0RfIviSKmrDjPwdIw&s",
+    role: "Estagiário Big Data",
+    company: "SERPRO",
+    date: "Nov 2024 - Presente",
+    desc: "Análise de dados e data lake",
+    skills: [
+      "java",
+      "sql", 
     ],
     doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
   },
