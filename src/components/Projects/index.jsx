@@ -10,9 +10,9 @@ const Projects = ({openModal,setOpenModal}) => {
   return (
     <Container id="projects">
       <Wrapper>
-        <Title>Projetos</Title>
+        <Title>Projects</Title>
         <Desc>
-        Trabalhei em uma ampla gama de projetos. De aplicativos da web a aplicativos Android. Aqui estão alguns dos meus projetos.
+        Worked on several data engineering projects. These projects demonstrate my ability to design and implement data pipelines, perform data analysis, and create data visualizations. I have experience working with various tools and technologies such as Python, SQL, and cloud platforms like AWS and Azure.
         </Desc>
         {/* <ToggleButtonGroup >
           {toggle === 'all' ?

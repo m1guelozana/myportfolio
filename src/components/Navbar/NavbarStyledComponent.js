@@ -103,6 +103,7 @@ export const ButtonContainer = styled.div`
   justify-content: end;
   align-items: center;
   padding: 0 6px;
+  gap: 16px;
   @media screen and (max-width: 768px) {
     display: none;
   }

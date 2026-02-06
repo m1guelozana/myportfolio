@@ -90,11 +90,11 @@ function Footer() {
       <FooterWrapper>
         <Logo>Miguel Ozana</Logo>
         <Nav>
-          <NavLink href="#about">Sobre Mim</NavLink>
-          <NavLink href="#skills">Habilidades</NavLink>
-          <NavLink href="#experience">Experiências</NavLink>
-          <NavLink href="#projects">Projetos</NavLink>
-          <NavLink href="#education">Acadêmico</NavLink>
+          <NavLink href="#about">About Me</NavLink>
+          <NavLink href="#skills">Skills</NavLink>
+          <NavLink href="#experience">Experience</NavLink>
+          <NavLink href="#projects">Projects</NavLink>
+          <NavLink href="#education">Education</NavLink>
         </Nav>
         <SocialMediaIcons>
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
