@@ -168,6 +168,26 @@ export const education = [
 export const projects = [
   {
     id: 1,
+    title: "PIB Municipal Data Pipeline – Medallion Architecture",
+    date: "Apr 2025",
+    description:
+      "An end-to-end data pipeline built with Apache Spark, Airflow, and Delta Lake following the Medallion Architecture (Bronze → Silver → Gold). Raw municipal GDP data is ingested into the Bronze layer, cleaned and standardized into Parquet format in the Silver layer, and transformed into analytics-ready Delta tables in the Gold layer. The pipeline is orchestrated via Airflow using SparkSubmitOperator and visualized in Metabase dashboards, simulating a production-grade data engineering workflow.",
+    tags: [
+      "Apache Spark",
+      "Delta Lake",
+      "Parquet",
+      "Apache Airflow",
+      "SparkSubmitOperator",
+      "Docker",
+      "Data Lake",
+      "Medallion Architecture",
+      "Metabase",
+      "Data Engineering",
+    ],
+    github: "https://github.com/m1guelozana/SEU_REPOSITORIO_AQUI",
+  },
+  {
+    id: 2,
     title: "Data Lake Table Comparator & Validator",
     date: "Jan 2025 - Present",
     description:
@@ -185,7 +205,7 @@ export const projects = [
     github: "https://github.com/m1guelozana/comparador_e_validador_de_tabelas_datalake_sas",
   },
   {
-    id: 2,
+    id: 3,
     title: "ETL Pipeline – Bronze to Gold",
     date: "Feb 2025",
     description:
@@ -201,7 +221,7 @@ export const projects = [
     github: "https://github.com/m1guelozana/ETL",
   },
   {
-    id: 3,
+    id: 4,
     title: "Data Pipeline Orchestration with Apache Airflow",
     date: "Mar 2025",
     description:
