@@ -184,7 +184,7 @@ export const projects = [
       "Metabase",
       "Data Engineering",
     ],
-    github: "https://github.com/m1guelozana/SEU_REPOSITORIO_AQUI",
+    github: "https://github.com/m1guelozana/Apache-Airflow-ETL-PIB_Brasileiro",
   },
   {
     id: 2,
